@@ -1,0 +1,14 @@
+{
+  "name": "Pear Signaling Server",
+  "description": "A server side element to broker connections between Pear UI and Edge devices.",
+  "website": "",
+  "repository": "https://github.com/barbinbrad/pear-signaling",
+  "logo": "",
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "WebRTC",
+    "Peer to Peer",
+    "Plug and Play"
+  ]
+}
